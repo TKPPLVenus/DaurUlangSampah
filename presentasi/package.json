@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "daur-ulang-sampah-bespoke",
+=======
+  "name": "y-bespoke",
+>>>>>>> d3b9676e4dec6e2d91811b06876f418ff7e4f26f
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
