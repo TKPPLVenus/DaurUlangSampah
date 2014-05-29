@@ -1,4 +1,8 @@
-# Nisa
+<<<<<<< HEAD
+# Daur Ulang Sampah
+=======
+# y
+>>>>>>> d3b9676e4dec6e2d91811b06876f418ff7e4f26f
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
